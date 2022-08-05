@@ -1,3 +1,0 @@
-{
-	"include": ["*.js", "lib/*.js", "p5types/global.d.ts"]
-}
